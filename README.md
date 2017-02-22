@@ -24,9 +24,7 @@ RetroArch modules created by other users (in core_modules_extra folder):
 - caprice32 (Amstrad CPC), provided by 1lokolo1/nesito
 - fbalpha2012_neogeo (Neo-Geo), provided by 1lokolo1/nesito
 - fuse (ZX Spectrum), provided by 1lokolo1/nesito
-- caprice32 (Amstrad CPC), provided by 1lokolo1/nesito
 - doxbox (MS-DOS) , provided by 1lokolo1/nesito 
-- picodrive (Sega Master System, Genesis/Mega Drive, Sega CD, Mega CD, 32X) , provided by 1lokolo1/nesito
 - mame2000 (some mame2000 arcades machines) , provided by 1lokolo1/nesito
 
 ## How to use this
@@ -91,8 +89,6 @@ Executables and arguments for all available cores:
           runs "fuse" core
         - /bin/mame2000 <rom> <clover_args>
           runs "mame2000" core
-        - /bin/32x <rom> <clover_args>
-          runs "picodrive" core	
 
 		  
 ## Known issues
