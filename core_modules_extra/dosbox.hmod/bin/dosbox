@@ -1,2 +1,2 @@
 #!/bin/sh
-exec retroarch-clover core "$@"
+exec retroarch-clover dosbox "$@"
