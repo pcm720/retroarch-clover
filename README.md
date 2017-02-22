@@ -105,7 +105,7 @@ NES Mini shell integration by Cluster
 
 Various additions, tweaks and fixes by pcm720
 
-Cap32, fuse and mame2000 compiled and fixs by D_Skywalk
+Cap32, fuse and mame2000 compiled and fixed by D_Skywalk
 
 RetroArch/libretro project: https://www.libretro.com
 
