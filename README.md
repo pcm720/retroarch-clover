@@ -22,6 +22,10 @@ RetroArch modules created by other users (in core_modules_extra folder):
 - fbalpha2012_neogeo (Neo-Geo), provided by 1lokolo1/nesito
 - fuse (ZX Spectrum), provided by 1lokolo1/nesito
 - caprice32 (Amstrad CPC), provided by 1lokolo1/nesito
+- fbalpha2012_neogeo (Neo-Geo), provided by 1lokolo1/nesito
+- fuse (ZX Spectrum), provided by 1lokolo1/nesito
+- doxbox (MS-DOS) , provided by 1lokolo1/nesito 
+- mame2000 (some mame2000 arcades machines) , provided by 1lokolo1/nesito
 
 ## How to use this
 
@@ -83,10 +87,13 @@ Executables and arguments for all available cores:
           runs "caprice32" core
         - /bin/zx <rom> <clover_args>
           runs "fuse" core
+        - /bin/mame2000 <rom> <clover_args>
+          runs "mame2000" core
 
+		  
 ## Known issues
 
-- Nintendo 64 save-states are not working, battery backups work fine
+- Nintendo 64 and CPS2 save-states are not working, battery backups work fine. 
 - Default CRT filter is not working, scanlines shader added instead but it's not working with all systems.
 - It's recommended to turn your NES Mini off from shell, not during the game
 
@@ -97,6 +104,8 @@ NES Mini port by madmonkey
 NES Mini shell integration by Cluster
 
 Various additions, tweaks and fixes by pcm720
+
+Cap32, fuse and mame2000 compiled and fixed by D_Skywalk
 
 RetroArch/libretro project: https://www.libretro.com
 
