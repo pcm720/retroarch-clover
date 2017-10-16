@@ -13,7 +13,7 @@ Available executables and arguments:
 - /bin/msx <rom> <clover_args>
   runs "fmsx" core
 
-Core by libretro
+Core by libretro, compiled by pcm/pcm720
 Module suggested and provided by asper
 Hakchi module system by madmonkey
 NES Mini shell integration by Cluster
